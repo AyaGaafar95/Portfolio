@@ -45,6 +45,9 @@ section {
 .text {
   padding-top: 15%;
 }
+img {
+  max-width: 100%;
+}
 
 .main {
   width: 100%;
